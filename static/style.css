@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+    color: #f0f0f0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  a {
+    color: #66b2ff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .card {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    border: none;
+  }
+  
+  .btn-primary {
+    background-color: #0069d9;
+    border: none;
+  }
+  
+  .btn-warning {
+    background-color: #ffcc00;
+    border: none;
+    color: #121212;
+  }
+  
+  .btn-secondary {
+    background-color: #444;
+    border: none;
+    color: #eee;
+  }
+  
